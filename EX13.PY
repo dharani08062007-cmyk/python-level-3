@@ -1,5 +1,5 @@
-print("Dhanansezhiyan Computer Mark")
-print("Nehur Street Paducheiry")
+print("Dharani dharan Computer Mark")
+print("Nehur Street puducherry")
 print("------------------------")
 print("Bill Recpit")
 print("------------")
@@ -23,3 +23,4 @@ else:
     print("Gst Good & Service Tax:",gst)
 amt=total+gst
 print("Amount to be Paid:",amt)
+
